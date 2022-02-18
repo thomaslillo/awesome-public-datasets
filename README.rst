@@ -117,6 +117,7 @@ Transportation
 * Transport for London: http://www.tfl.gov.uk/info-for/open-data-users/our-feeds
 * U.S. Freight Analysis Framework: http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm
 * Marine Traffic - ship tracks, port calls and more: https://www.marinetraffic.com/de/p/api-services
+* Microsoft GPS Trajectories - time stamped points: https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/
 
 
 Government
